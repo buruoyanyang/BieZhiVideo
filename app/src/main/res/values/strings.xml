@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">别致影音</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="initImageUrl">http://res.126.net/p/dbqb/resupload/onlinepath/2015/12/1/5/b3f2c9cc6e0c262c2c9233888b0f7a22.jpg</string>
+</resources>
